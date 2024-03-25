@@ -59,6 +59,7 @@ const restaurantSchema = new Schema(
     }
 );
 
+//genera un bjson con coordenadas que accede a location; es decir, mongoose obtiene los lugares mediante coordenadas
 restaurantSchema.index({ 'location': '2dsphere' });
 
 const Restaurant = model("Restaurant", restaurantSchema)
