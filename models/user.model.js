@@ -29,8 +29,10 @@ const userSchema = new Schema(
       default:
         'https://static-00.iconduck.com/assets.00/avatar-default-icon-2048x2048-h6w375ur.png',
     },
-    favoriteRestaurants: [{ type: Schema.Types.ObjectId, ref: 'Restaurant' }],
-    createdRestaurants: [{ type: Schema.Types.ObjectId, ref: 'Restaurant' }],
+    favoriteApplications: [{ type: Schema.Types.ObjectId, ref: 'Application' }],
+    createdApplications: [{ type: Schema.Types.ObjectId, ref: 'Application' }],
+    favoriteExercises: [{ type: Schema.Types.ObjectId, ref: 'Exercise' }],
+    createdExercises: [{ type: Schema.Types.ObjectId, ref: 'Exercise' }],
   },
   {
     timestamps: true,

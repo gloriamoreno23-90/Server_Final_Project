@@ -1,4 +1,5 @@
 const Exercise = require("../models/exercise.model")
+
 const exercises = require("./exercises.json")
 const mongoose = require("../db")
 ;(async () => {
@@ -7,7 +8,7 @@ const mongoose = require("../db")
     console.log("DB cleaned")
 
     const exercisesDB = await Exercise.insertMany(exercises)
-    console.log(`Successful DB Seed with restaurants ${exercisesDB}!`)
+    console.log(`Successful DB Seed with exercises ${exercisesDB}!`)
   } catch (error) {
     console.log("error", error)
   } finally {

@@ -1,8 +1,10 @@
 const router = require('express').Router();
-const restaurantRoutes = require('./restaurant.routes');
+const applicationRoutes = require('./application.routes');
+const exerciseRoutes = require('./exercise.routes');
 const authRoutes = require('./auth.routes');
 
-router.use('/restaurants', restaurantRoutes);
+router.use('/applications', applicationRoutes);
+router.use('/exercises', exerciseRoutes);
 router.use('/auth', authRoutes);
 router.use('/user', require('./user.routes'));
 

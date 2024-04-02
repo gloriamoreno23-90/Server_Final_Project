@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Freemindfulness",
+    "description": "A free web site to practice mindfulness guided exercises",
+    "url": "https://www.freemindfulness.org/welcome",
+    "meditation_sessions": "https://www.freemindfulness.org/live-online-mindfulness-sessions",
+    "other_resources": "https://www.freemindfulness.org/download",
+    "exercises": ["660c58ffd5961af1691302d1", "660c58ffd5961af1691302d2", "660c58ffd5961af1691302d3", "660c58ffd5961af1691302d4"]
+  },
+  {
+    "name": "Headspace",
+    "description": "An app that only offers its content once you pay a membership. It is a convinient resourse that will guide you through easy meditation and mindfulness exercises",
+    "url": "https://www.headspace.com/es",
+    "meditation_sessions": "https://my.headspace.com/modes/meditate",
+    "other_resources": "https://my.headspace.com/profile/account",
+    "exercises": ["660c58ffd5961af1691302d5", "660c58ffd5961af1691302d6", "660c58ffd5961af1691302d7", "660c58ffd5961af1691302d8", "660c58ffd5961af1691302d9", "660c58ffd5961af1691302da", "660c58ffd5961af1691302db", "660c58ffd5961af1691302dc", "660c58ffd5961af1691302dd", ""]
+  },
+  {
+    "name": "Calm",
+    "description": "An app that offer limited free content and unlimited access to guided meditations and more when you become a memeber. The essentials is a free collection of content and tools designed to help you take care of your mental health.",
+    "url": "https://www.calm.com/es",
+    "meditation_sessions": "https://www.calm.com/blog/essentials",
+    "other_resources": "https://www.calm.com/blog/essentials",
+    "exercises": ["", ""]
+  }
+]
