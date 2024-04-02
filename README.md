@@ -1,8 +1,8 @@
-# Project - Restaurant
+# Project - Meditation
 
 ## Description
 
-This is a full-stack application that allows users to find and review restaurants. Users can create an account, log in, and add restaurants to their favorites. They can also add, edit, and delete restaurants.
+This is a full-stack application that allows users to find meditation exercises. Users can create an account, log in, and add apps and exercises to their favorites. They can also add, edit, and delete them.
 
 ## Installation
 
@@ -39,23 +39,43 @@ npm run dev
 
 # API Routes
 
-## **Restaurants routes**:
+## **Applications routes**:
 
 | URL path                    | HTTP Method       | Response                          | Action                        |
 | :--------------------------:|:-----------------:| :--------------------------------:| :----------------------------:|
-| /api/restaurants/list       | GET               | [restaurants]                     | Get all restaurants     |
-| /api/restaurants/getOne/:restaurant_id            | GET               | {restaurant}                | Get one Restaurant     |
-| /api/restaurants/create            | POST               | {createdRestaurant}                | Create Restaurant      |
-| /api/restaurants/edit/:restaurant_id            | PUT               | {editedRestaurant}                | Edit one restaurant     |
-| /api/restaurants/delete/:restaurant_id           | DELETE               | {msg: "Restaurant successfully deleted!" }                | Delete one restaurant     |
+| /api/applications/list       | GET               | [applications]                     | Get all applications     |
+| /api/applications/getOne/:application_id            | GET               | {application}                | Get one Application     |
+| /api/applications/create            | POST               | {createdApplication}                | Create Application      |
+| /api/applications/edit/:application_id            | PUT               | {editedApplication}                | Edit one application     |
+| /api/applications/delete/:application_id           | DELETE               | {msg: "Application successfully deleted!" }                | Delete one application     |
+
+
+## **Exercises routes**:
+
+| URL path                    | HTTP Method       | Response                          | Action                        |
+| :--------------------------:|:-----------------:| :--------------------------------:| :----------------------------:|
+| /api/exercises/list       | GET               | [exercises]                     | Get all exercises     |
+| /api/exercises/getOne/:exercise_id            | GET               | {exercise}                | Get one Exercise     |
+| /api/exercises/create            | POST               | {createdExercise}                | Create Exercise      |
+| /api/exercises/edit/:exercise_id            | PUT               | {editedExercise}                | Edit one exercise    |
+| /api/exercises/delete/:exercise_id           | DELETE               | {msg: "Exercise successfully deleted!" }                | Delete one exercise     |
+
+
 
 ## **User routes**:
 
 | URL path                    | HTTP Method       | Response                          | Action                        |
 | :--------------------------:|:-----------------:| :--------------------------------:| :----------------------------:|
-| /api/users/getFavoriteRestaurants              | GET               | [restaurants]                           | Get logged user's favorite restaurants |
-| /api/users/likeRestaurant/:restaurant_id              | PUT               | {updatedUser}                           | Like Restaurant |
-| /api/users/dislikeRestaurant/:restaurant_id              | PUT               | {updatedUser}                           | Dislike Restaurant |
+| /api/users/getFavoriteApplications              | GET               | [applications]                         | Get logged user's favorite applications |
+| /api/users/likeApplication/:application_id              | PUT               | {updatedUser}                           | Like Application |
+| /api/users/dislikeApplication/:application_id              | PUT               | {updatedUser}                           | Dislike Application |
+
+| /api/users/getFavoriteExercises              | GET               | [exercises]                         | Get logged user's favorite exercises |
+| /api/users/likeExercise/:exercise_id              | PUT               | {updatedUser}                           | Like Exercise |
+| /api/users/dislikeExercise/:exercise_id              | PUT               |{updatedUser}                         | Dislike Exercise |
+
+
+
 
 ## **Auth routes**:
 
