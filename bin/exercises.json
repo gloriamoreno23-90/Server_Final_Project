@@ -2,78 +2,91 @@
   {
     "name": "Mindfulness of breath session. Freemindfulness",
     "description": "Exercises focus on bringing awareness to the process of breathing.",
+    "image": "https://cdn.pixabay.com/photo/2016/05/10/21/50/meditation-1384758_1280.jpg",
     "duration": 215,
     "audio": "https://drive.google.com/file/d/1nzkNZ9r2SWWn86NTDykEkCj4HosAgfGb/view"
   },
   {
     "name": "Tension release meditation session. Freemindfulness",
     "description": "Become self-aware with this guided meditation",
+    "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F723384299%2F14120849837%2F1%2Foriginal.20240319-182012?w=940&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=d96e67e2ba2cbc5c38870e26dae70ce7",
     "duration": 346,
     "audio": "https://drive.google.com/file/d/1dcsW9byG8G4Gyb1hFvtFS27LnrBdfvDA/view"
   },
   {
     "name": "Sitting meditation session. Freemindfulness",
     "description": "Use the breath as the central focus of the practice. At times they incorporate awareness of sounds, bodily sensations, thoughts or feelings.",
+    "image": "https://mf.b37mrtl.ru/actualidad/public_images/2020.03/article/5e719e8d59bf5b49e6119a90.jpg",
     "duration": 1260,
     "audio": "https://drive.google.com/file/d/1PpeSPQW5-FI_zYV7I0HrpdBG7ko1kId2/view"
   },
   {
     "name": "Self guided mindfulness exercises session. Freemindfulness",
     "description": "Audio tracks begin and end with the sound of a bell ringing, to orientate you through your own practice",
+    "image": "https://images.ecestaticos.com/pV1UUt9FPhAUr2FlOMhSArkVkI0=/119x2:2001x1412/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3c2%2F8fa%2F05d%2F3c28fa05df1e0b73d9582598b02015ba.jpg",
     "duration": 332,
     "audio": "https://drive.google.com/file/d/184pqYcLJONCJ1HebGPU-0cb7r1lNUryL/view"
   },
   {
     "name": "Meditation basic course, part one. Headspace",
     "description": "It is the first part of the basic course that teaches basic features for meditation. This first course consists in daily audio sessions during ten days",
+    "image": "https://plagasyjardin.net/img/cms/Imagen4.png",
     "duration": 270,
     "audio": "https://my.headspace.com/modes/meditate/content/1"
   },
   {
     "name": "Meditation basic course, part two. Headspace",
     "description": "It is the second part of the basic course that teaches basic features for meditation. This second course consists in daily audio sessions during ten days",
+    "image": "https://plagasyjardin.net/img/cms/Imagen3.png",
     "duration": 660,
     "audio": "https://my.headspace.com/modes/meditate/content/4"
   },
   {
     "name": "Meditation basic course, part three. Headspace",
     "description": "It is the third part of the basic course that teaches basic features for meditation. This third course consists in daily audio sessions during ten days",
+    "image": "https://uh.gsstatic.es/sfAttachPlugin/getCachedContent/id/2772613/width/375/height/500",
     "duration": 720,
     "audio": "https://my.headspace.com/modes/meditate/content/2"
   },
   {
     "name": "Breathing session. Headspace",
     "description": "This session will theach how to breath in order to be calm during your day",
+    "image": "https://www.sannicolasvalencia.com/wp-content/uploads/2019/02/images.jpeg",
     "duration": 60,
     "audio": "https://my.headspace.com/player/38?contentId=9&contentType=ONEOFF&mode=meditate&trackingName=Meditation"
   },
   {
     "name": "Stress reduction course. Headspace",
     "description": "This course consists in daily audio sessions during ten days that will help you to heal your mind also to be aware of your own stress",
+    "image": "https://s1.1zoom.me/big0/495/Maldives_Sea_Sky_Sunrises_and_sunsets_Clouds_529969_1280x853.jpg",
     "duration": 690,
     "audio": "https://my.headspace.com/modes/meditate/content/27"
   }, 
   {
     "name": "Daily meditations. Headspace",
     "description": "Daily audio sessions to meditate",
+    "image": "https://decogardenlosalmendros.com/wp-content/uploads/2023/01/962020100118china-1177009_1280jpg.jpg",
     "duration": 240,
     "audio": "https://my.headspace.com/player/519?contentId=5328&contentType=Meditation&edhs=true&mode=meditate&trackingName=Meditation"
   },
   {
     "name": "S.O.S sessions. Headspace",
     "description": "There are a variety of sessions that will save you during those days where emotions and feelings get stronger and hard to controll them",
+    "image": "https://decogardenlosalmendros.com/wp-content/uploads/2023/01/1562020050045garden-water-944438_1280jpg.jpg",
     "duration": 180,
     "audio": "https://my.headspace.com/modes/meditate/topic/59"
   },
   {
     "name": "Quick metidation sessions. Headspace",
     "description": "There are a variety of sessions where you can dive into according to your purpose",
+    "image": "https://www.nachomonterorios.com/wp-content/uploads/2022/03/candle-g97957b395_1920-600x394.jpg",
     "duration": 600,
     "audio": "https://my.headspace.com/modes/meditate/topic/59"
   },
   {
     "name": "Concentration focus. Headspace",
     "description": "There are many helpfull playlist that will help you to concentrate during different activities",
+    "image": "https://sabioestoico.com/wp-content/uploads/2023/08/boat-1992137_1280-1024x682.jpg",
     "duration": 3600,
     "audio": "https://my.headspace.com/modes/meditate/topic/59"
   },
@@ -81,72 +94,84 @@
   { "___AYUDA___AYUDA____AYUDA____COMENTARIO": "MongoDB no generó información a partir de aquí, es decir que no obtuve los id de aqui en adelante__________",
     "name": "Concentration focus. Headspace",
     "description": "There are many helpfull playlist that will help you to concentrate during different activities",
+    "image": "https://cdn.pixabay.com/photo/2013/05/09/09/06/waves-circles-109964_1280.jpg",
     "duration": 3600,
     "audio": "https://my.headspace.com/modes/meditate/topic/59"
   },
   {
     "name": "Guided Breathing for Anxiety. Calm",
     "description": "An audio of a simple breathing exercise to quickly ease physical tension for reduced anxiety",
+    "image": "https://laesquinadeguille.com/wp-content/uploads/2023/09/tea-light-2692556_1920-1.jpg",
     "duration": 660,
     "audio": "https://www.youtube.com/watch?v=laEEMf24kUM&t=12s"
   },
   {
     "name": "Body Scan for Anxiety. Calm",
     "description": "An audio of a guided practice to help center and bring to the present",
+    "image": "https://imagenes.muyinteresante.com/files/image_670_447/uploads/2024/02/25/65db3b7e202a3.jpeg",
     "duration": 210,
     "audio": "https://www.youtube.com/watch?v=-pAHvWFmTqk"
   },
   {
     "name": "Break the Stress Cycle. Calm",
     "description": "An audio of a counting practice designed to help you find a sense of calm and grounding",
+    "image": "https://imagenes.muyinteresante.com/files/image_670_447/uploads/2024/02/25/65db3b94917d6.jpeg",
     "duration": 163,
     "audio": "https://www.youtube.com/watch?v=KkrszVKZyXs"
   },
   {
   "name": "5 Steps to Less Stress. Calm",
   "description": "An audio of a grounding exercise that utilizes the five senses ",
+  "image": "https://imagenes.muyinteresante.com/files/image_670_447/uploads/2024/02/25/65db3bab21d8f.jpeg",
   "duration": 240,
   "audio": "https://www.youtube.com/watch?v=-lbxMrAoSWk"
 },
 {
   "name": "Ocean Waves. Calm",
   "description": "An audio of the soothing and relaxing sounds of ocean waves and enjoy a feeling of ease from the strain of stress",
+  "image": "https://imagenes.muyinteresante.com/files/image_670_447/uploads/2024/02/25/65db3bd9d1e58.jpeg",
   "duration": 1800,
   "audio": "https://www.youtube.com/watch?v=5huT3ASaMT4"
 },
 {
   "name": "Low mood. Calm",
   "description": "An audio of a guided practice to help separate emotions from the understanding of who we are.",
+  "image": "https://images.inc.com/uploaded_files/image/1920x1080/getty_669687786_371752.jpg",
   "duration": 453,
   "audio": "https://www.youtube.com/watch?v=_LVxQLZrbks"
 },
 {
   "name": "Grieving. Calm",
   "description": "An audio of a practice to help grieve with love and honesty.",
+  "image": "https://www.sec-ed.co.uk/media/ahxfs1ps/misccalm1-as.jpg?width=800&height=533&format=webp&quality=80&bgcolor=White&rnd=133475818280870000",
   "duration": 811,
   "audio": "https://www.youtube.com/watch?v=8VCqlb0JGoY"
 },
 {
   "name": "Physical health. Calm",
   "description": "A video practice that will help ypu to let go of physical tension and uplift your mood with this full body movement.",
+  "image": "https://st4.depositphotos.com/3785547/30543/i/450/depositphotos_305435796-stock-photo-mykinesholmur-landscape-cliffs-atlantic-ocean.jpg",
   "duration": 405,
   "audio": "https://www.youtube.com/watch?v=_grV6wt_i7Y"
 },
 {
   "name": "Negative thougths. Calm",
   "description": "An audio of a practice to help reframe one's inner self talk",
+  "image": "https://st.depositphotos.com/1015060/2792/i/450/depositphotos_27924323-stock-photo-lake-sunset.jpg",
   "duration": 453,
   "audio": "https://www.youtube.com/watch?v=Vrihiywl6YM"
 },
 {
   "name": "To get a better sleep. Calm",
   "description": "An audio of a bedtime story about traveling the scenic coast of Norway",
+  "image": "https://st.depositphotos.com/1033604/2078/i/450/depositphotos_20788789-stock-photo-gourgeous-cherry-trees-in-full.jpg",
   "duration": 1980,
   "audio": "https://www.youtube.com/watch?v=qIXI0OaMa-4"
 },
 {
   "name": "To sleep better. Calm",
   "description": "An audio of a bedtime classic fairytale with beloved characters",
+  "image": "https://static4.depositphotos.com/1003352/328/i/450/depositphotos_3289648-stock-photo-tropical-beach-andaman-sea-thailand.jpg",
   "duration": 2634,
   "audio": "https://www.youtube.com/watch?v=zJVMbHcS1z0"
 }
